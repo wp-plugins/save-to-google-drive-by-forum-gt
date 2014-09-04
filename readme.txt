@@ -3,8 +3,8 @@ Contributors: Andrea Pernici
 Donate link: http://www.andreapernici.com/donazioni/
 Tags: google, save to google drive, cloud file saving
 Requires at least: 2.6
-Tested up to: 3.9
-stable tag: 1.0.0
+Tested up to: 4.0
+stable tag: 1.0.1
 
 Add Google Save To Drive Button to your Wordpress with a shortocode.
 
@@ -18,6 +18,9 @@ More info:
 * Check out the other [Wordpress plugins](http://www.andreapernici.com/wordpress/) by the same author, and follow hime on the: [SEO Blog](http://seoblog.giorgiotave.it/).
 
 **Changelog**
+
+= 1.0.1 =
+* WP 4 Compatibility check
 
 = 1.0.0 =
 * Release
