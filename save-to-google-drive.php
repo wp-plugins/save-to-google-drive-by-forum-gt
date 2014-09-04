@@ -3,7 +3,7 @@
 	Plugin Name: Wordpress Save To Google Drive
 	Plugin URI: http://andreapernici.com/wordpress/save-to-drive/
 	Description: Add Save To Google Drive Button to Wordpress.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Andrea Pernici
 	Author URI: http://www.andreapernici.com/
 	
@@ -25,7 +25,7 @@
 
 	*/
 
-define( 'SAVETODRIVE_VERSION', '1.0.0' );
+define( 'SAVETODRIVE_VERSION', '1.0.1' );
 
 $pluginurl = plugin_dir_url(__FILE__);
 if ( preg_match( '/^https/', $pluginurl ) && !preg_match( '/^https/', get_bloginfo('url') ) )
